@@ -1,7 +1,5 @@
 # MLOnTheGo
 
-# MLOnTheGo
-
 **MLOnTheGo** is a lightweight machine learning interface that allows users to quickly train and evaluate machine learning models using pre-trained models on their own datasets. Built with Streamlit, the application offers a simple user interface where users can upload datasets, choose features, set train-test splits, and generate predictions that can be downloaded as CSV files.
 
 ## Features
